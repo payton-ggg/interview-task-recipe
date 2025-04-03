@@ -13,8 +13,8 @@
 ### Installation
 
 ```bash
-   git clone https://github.com/payton-ggg/interview-task-recipe
-   npm ci
+  git clone https://github.com/payton-ggg/interview-task-recipe
+  npm ci
 ```
 
 I recommend you to use 'ci' to create workspace exactly as I do.
@@ -26,5 +26,5 @@ Just set the `NEXT_PUBLIC_SPOONACULAR_API_KEY` variable in .env.local
 ### Lunch your app
 
 ```bash
-    npm run dev
+  npm run dev
 ```
