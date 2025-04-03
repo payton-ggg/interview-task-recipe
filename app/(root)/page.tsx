@@ -39,11 +39,12 @@ export default function Home() {
 			<div className="max-w-4xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
 				<div className="text-center">
 					<h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
-						Find Your Perfect Recipe
+						Recipe Finder Application
 					</h1>
 					<p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
-						Discover delicious recipes from around the world. Search by name,
-						cuisine, or preparation time.
+						Application allow users to search for recipes with advanced filters,
+						display results on a separate page, and view detailed information
+						for each recipe
 					</p>
 				</div>
 
